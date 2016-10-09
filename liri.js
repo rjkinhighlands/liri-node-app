@@ -40,7 +40,7 @@ var request = require('request');
 		twitClient.get('statuses/user_timeline',function(error, tweets, response){
 			if(error) throw error;
 			for (var i = 0; i < tweets.length; i++){
-				console.log(tweets[i].created_at+": "+tweets[i].user.screen_name+" says "+tweets[i].text);			
+				console.log(tweets[i].created_at+": "+tweets[i].user.screen_name+" says: "+tweets[i].text);			
 			}
 		})
 	};
