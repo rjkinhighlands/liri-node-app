@@ -1,0 +1,167 @@
+Last login: Tue Oct 11 18:15:00 on console
+Roberts-MacBook-Pro:~ rjkelly$ clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Roberts-MacBook-Pro:~ rjkelly$ bootcamp
+Roberts-MacBook-Pro:Bootcamp rjkelly$ cd week10
+Roberts-MacBook-Pro:week10 rjkelly$ cd homework10
+Roberts-MacBook-Pro:homework10 rjkelly$ ls
+Extras HOLD	liri-node-app
+Roberts-MacBook-Pro:homework10 rjkelly$ cd liri-node-app
+Roberts-MacBook-Pro:liri-node-app rjkelly$ ls
+README.md	liri.js		package.json
+keys.js		node_modules	random.txt
+Roberts-MacBook-Pro:liri-node-app rjkelly$ node liri.js my-tweets
+Sun Oct 09 18:32:34 +0000 2016: rjkelly16 says: Or maybe quincy thats it
+Sun Oct 09 18:32:21 +0000 2016: rjkelly16 says: One more Steve
+Sun Oct 09 18:32:05 +0000 2016: rjkelly16 says: Anything for RCB!!!!!
+Sun Oct 09 18:31:52 +0000 2016: rjkelly16 says: almost there
+Sun Oct 09 18:31:26 +0000 2016: rjkelly16 says: just google it!
+Sun Oct 09 18:31:10 +0000 2016: rjkelly16 says: Seems question answers to be available online
+Sun Oct 09 18:30:23 +0000 2016: rjkelly16 says: This wasn't that bad
+Sun Oct 09 18:29:56 +0000 2016: rjkelly16 says: Hope i get this node stuff ok
+Sun Oct 09 18:29:43 +0000 2016: rjkelly16 says: I thought ten was alot
+Sun Oct 09 18:29:31 +0000 2016: rjkelly16 says: Now it says 20 damn
+Sun Oct 09 18:28:09 +0000 2016: rjkelly16 says: Ten success hope this is enough
+Sun Oct 09 18:27:53 +0000 2016: rjkelly16 says: One more to go
+Sun Oct 09 18:27:20 +0000 2016: rjkelly16 says: Got to run 10 only at 8 :)
+Sun Oct 09 18:26:45 +0000 2016: rjkelly16 says: have tweet thumbs from my laptop
+Sun Oct 09 18:26:15 +0000 2016: rjkelly16 says: Can't tweet anymore
+Sun Oct 09 18:25:50 +0000 2016: rjkelly16 says: bastard
+Sun Oct 09 18:25:41 +0000 2016: rjkelly16 says: Which wasn't suppose to affect us as much as it did
+Sun Oct 09 18:25:16 +0000 2016: rjkelly16 says: sitting here riding out the storm
+Sun Oct 09 18:24:57 +0000 2016: rjkelly16 says: i dont twit
+Sun Oct 09 18:24:31 +0000 2016: rjkelly16 says: working on my first twitter call back for school
+Roberts-MacBook-Pro:liri-node-app rjkelly$ node liri.js spotify-this-song 'touch of grey'
+Found: 20 results matching touch of grey
+ 
+Artist: Grateful Dead
+Song Name: Touch Of Grey
+Spotify Link: https://p.scdn.co/mp3-preview/f1d15ce1f7ae795bc83200296ebd2d438f602487
+Album: The Very Best Of Grateful Dead
+ 
+Artist: The War On Drugs
+Song Name: Touch of Grey
+Spotify Link: https://p.scdn.co/mp3-preview/aa9e7d389e6f5db5ce4ee8f24928aee8dee890df
+Album: Day of the Dead
+ 
+Artist: Grateful Dead
+Song Name: Touch Of Grey
+Spotify Link: https://p.scdn.co/mp3-preview/93758c45d6dec3ab9a98e01ebcabde46efe88136
+Album: In The Dark
+ 
+Artist: Grateful Dead
+Song Name: Touch Of Grey - 2015 Remastered Version
+Spotify Link: https://p.scdn.co/mp3-preview/02928fc86e035e752d1a03a44e26107eeea4c88d
+Album: The Best Of The Grateful Dead
+ 
+Artist: Grateful Dead
+Song Name: Touch Of Grey - Live at Soldier Field, Chicago, IL 7/5/2015
+Spotify Link: https://p.scdn.co/mp3-preview/a89d95c9fcdfb110212c5f6fcd0413b177ea68a5
+Album: Fare Thee Well (Live 7/5/2015)
+ 
+Artist: Rockabye Baby!
+Song Name: Touch of Grey
+Spotify Link: https://p.scdn.co/mp3-preview/8305ba167c9a2cf824cdf6ea59cfeb304ffe3195
+Album: Lullaby Rendtions of Grateful Dead
+ 
+Artist: Grateful Dead
+Song Name: Touch Of Grey
+Spotify Link: https://p.scdn.co/mp3-preview/93758c45d6dec3ab9a98e01ebcabde46efe88136
+Album: Complete Studio Albums Collection
+ 
+Artist: Grateful Dead
+Song Name: Touch Of Grey
+Spotify Link: https://p.scdn.co/mp3-preview/f1d15ce1f7ae795bc83200296ebd2d438f602487
+Album: In The Dark
+ 
+Artist: Bob Weir
+Song Name: Touch Of Grey - Live
+Spotify Link: https://p.scdn.co/mp3-preview/98e9101d6959dd26d06896fb52e206de6766ef26
+Album: Touch Of Grey (Live)
+ 
+Artist: Grateful Dead
+Song Name: Touch Of Grey - Live at Soldier Field, Chicago, IL 7/5/2015
+Spotify Link: https://p.scdn.co/mp3-preview/4423238756a404a65a8fa71fb31362bc41c743e3
+Album: The Best Of Fare Thee Well: Celebrating 50 Years Of Grateful Dead
+ 
+Artist: Grateful Dead
+Song Name: Touch Of Grey - Live At Madison Square Garden, NY, Sept. 1990
+Spotify Link: https://p.scdn.co/mp3-preview/d10cdcc5901ceeffcdeeebadce7372535282bf03
+Album: Complete Road Trips
+ 
+Artist: Love Canon
+Song Name: Touch of Grey (Live)
+Spotify Link: https://p.scdn.co/mp3-preview/aadb2ac3725c1ef5a602be4eec889fa17345a8de
+Album: Greatest Hits Vol. 3
+ 
+Artist: Grateful Dead
+Song Name: Touch Of Grey [Live at Pine Knob Music Theater, Clarkston, MI, June 20, 1991]
+Spotify Link: https://p.scdn.co/mp3-preview/1fd77b2ee9c7b1ace467652305073fdb5780f508
+Album: Download Series Vol. 11: 6/20/91 (Pine Knob Music Theater, Clarkston, MI)
+ 
+Artist: Mike Massé
+Song Name: Touch of Grey (Feat. Jeff Hall, Dave Hall, & Julie Hall)
+Spotify Link: https://p.scdn.co/mp3-preview/9da73af6a2962fab605237f9e995c4dd0d84dc00
+Album: Covers, Vol. 2
+ 
+Artist: Grateful Dead
+Song Name: Touch Of Grey - Studio Rehearsal
+Spotify Link: https://p.scdn.co/mp3-preview/e3d342a9b2d7aa05eda0f25952c133b78d2fd6a1
+Album: Complete Studio Rarities Collection
+ 
+Artist: Pickin' On Series
+Song Name: Touch Of Grey
+Spotify Link: https://p.scdn.co/mp3-preview/9952f389d7c650b56709f2893f56ec6bb86bd5b8
+Album: Pickin' on The Grateful Dead Vol. 1
+ 
+Artist: Vitamin Swing
+Song Name: Touch of Grey
+Spotify Link: https://p.scdn.co/mp3-preview/3d7e9a68af1f575ce7fb3c743f5f49c6f0762817
+Album: Swingin' To the Grateful Dead
+ 
+Artist: Antichrist Dungeon Choir
+Song Name: Touch of Grey
+Spotify Link: https://p.scdn.co/mp3-preview/1f245452c290fd609f6b33efb1b27c39c88669e7
+Album: Touch of Grey
+ 
+Artist: Kugel
+Song Name: Touch Of Grey
+Spotify Link: https://p.scdn.co/mp3-preview/3831ed583fa4a8f382f147633fbdb6ad90415c91
+Album: Finger Play
+ 
+Artist: Prassein Aloga
+Song Name: Shade of Grey
+Spotify Link: https://p.scdn.co/mp3-preview/9a263cb3070f0c7e0b11d3891c1f867cdc7aa903
+Album: Midas Touch
+Roberts-MacBook-Pro:liri-node-app rjkelly$ node liri.js movie-this 'stripes'
+Title: Stripes
+Release Year: 1981
+IMDB Rating: 6.9
+Production Country: USA
+Language: English, Russian, Polish
+Actors; Bill Murray, Harold Ramis, Warren Oates, P.J. Soles
+Synopsis: Two friends who are dissatisfied with their jobs decide to join the army for a bit of fun.
+Roteen Tomatoes Rating: 6.6
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/stripes/
+Roberts-MacBook-Pro:liri-node-app rjkelly$ 
